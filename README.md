@@ -29,7 +29,7 @@ This database schema can be extended or modified according to your specific need
 
    - To record a new sale:
 
-    ** INSERT INTO** car_dekho (Name,	year,	selling_price,	km_driven,	fuel,	seller_type,	transmission,	owner,	mileage,	engine,	max_power, torque and	seats) **Values** (Maruti 800 AC,	1994,	45000,	60000, Petrol, Individual,	Manual,	First Owner,	16.1 kmpl,	796 CC,	37 bhp,	59Nm@ 2500rpm, 4)
+      **INSERT INTO** car_dekho (Name,	year,	selling_price,	km_driven,	fuel,	seller_type,	transmission,	owner,	mileage,	engine,	max_power, torque and	seats) **Values** (Maruti 800 AC,	1994,	45000,	60000, Petrol, Individual,	Manual,	First Owner,	16.1 kmpl,	796 CC,	37 bhp,	59Nm@ 2500rpm, 4)
 
 3. Customize and extend the database schema according to your specific dealership needs.
 
