@@ -37,8 +37,8 @@ This database schema can be extended or modified according to your specific need
 
 ## Contributing
 
-If you wish to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. We welcome contributions to improve the project's functionality and usability.
+If you wish to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. I welcome contributions to improve the project's functionality and usability.
 
 ---
 
-We hope the Car Dekho MySQL project helps you manage your car dealership efficiently. If you have any questions, issues, or suggestions, please feel free to contact us. Happy car dealing!
+Car Dekho MySQL project helps you manage your car dealership efficiently. If you have any questions, issues, or suggestions, please feel free to contact us. Happy car dealing!
